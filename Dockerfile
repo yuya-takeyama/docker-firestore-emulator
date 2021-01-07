@@ -1,4 +1,4 @@
-FROM andreysenov/firebase-tools:8.9.2
+FROM andreysenov/firebase-tools:8.20.0
 
 COPY firebase.json .
 
